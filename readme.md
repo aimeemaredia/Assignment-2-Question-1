@@ -45,4 +45,4 @@ ___
 ### Friend Class
 
 Class `Friend` initiates the `BaseCharacter` class and instances of this class are NPC.
-# Question-1-
+
